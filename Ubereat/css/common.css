@@ -1,0 +1,15 @@
+body {
+    margin: 0 auto;
+    font-family: "Roboto", sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.container {
+    padding: 0 8px;
+    margin: auto;
+    max-width: 962px;
+}
